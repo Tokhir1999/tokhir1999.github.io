@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	background-image:url('phone.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat:no-repeat;  
+}
+h1{
+	font-size:550%;
+	font-family:Buston Sketch;
+	color:red;
+}
+p{
+	font-family:Britannic Bold;
+	color:;
+}
+.movies img{
+	width:600px;
+	height:700px;
+}
